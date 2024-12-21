@@ -6,7 +6,7 @@ subtitle: Student. CSE @ <a href='https://cse.ucsd.edu'>UCSD</a>. LLTBH.
 
 profile:
   align: right
-  image: me.jpg
+  image: me.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>San Diego, CA 92037</p>
