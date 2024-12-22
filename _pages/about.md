@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Student. CSE @ <a href='https://cse.ucsd.edu'>UCSD</a>. LLTBH.
+subtitle: Student. CSE @ <a href='https://cse.ucsd.edu'>UCSD</a>.
 
 profile:
   align: right
