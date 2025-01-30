@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Student. CSE @ <a href='https://cse.ucsd.edu'>UCSD</a>.
+subtitle: Graduate student within CSE department @ <a href='https://cse.ucsd.edu'>University of California, San Diego</a>.
 
 profile:
   align: right
