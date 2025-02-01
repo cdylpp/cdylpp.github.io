@@ -12,15 +12,15 @@
   type: time_table
   contents:
   - title: Master of Science, Computer Science and Engineering
-      institution: National University, San Diego, California
-      year: 2023
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+    institution: National University, San Diego, California
+    year: 2023
+    description:
+      - Description 1.
+      - Description 2.
+      - title: Description 3.
+        contents:
+          - Sub-description 1.
+          - Sub-description 2.
 
 
     - title: Bachelor of Science, Computer Science
