@@ -4,4 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-
+  - cdylpp/adoctl
+  - cdylpp/srt
+  - cdylpp/homehub
+  - cdylpp/cdylpp.github.io

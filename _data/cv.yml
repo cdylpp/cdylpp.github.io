@@ -1,1 +1,64 @@
+- title: Profile
+  type: map
+  contents:
+    - name: Full Name
+      value: Cody J. Lepp
+    - name: Location
+      value: San Diego, CA
+    - name: Email
+      value: <a href="mailto:cdylpp@gmail.com">cdylpp@gmail.com</a>
+    - name: Focus
+      value: Theoretical computer science, quantum information science, and practical software systems
 
+- title: Education
+  type: time_table
+  contents:
+    - title: M.S. in Computer Science
+      institution: University of California, San Diego
+      year: 2024 - 2026
+      description:
+        - Graduate study in computer science and engineering.
+        - Academic interests include theoretical computer science, quantum computation, and machine learning theory.
+    - title: B.S. in Computer Science
+      institution: National University, San Diego
+      year: 2020 - 2023
+
+- title: Work and Projects
+  type: time_table
+  contents:
+    - title: Business Intelligence Analyst
+      institution: Unified Business Technologies, Inc.
+      year: 2023 - Present
+      description:
+        - Business intelligence work focused on turning operational data into useful analysis and reporting.
+    - title: adoctl
+      institution: Independent software project
+      year: 2025
+      description:
+        - Python CLI for validating generated planning bundles and creating Azure DevOps work items.
+        - Emphasizes configuration lineage, policy validation, and safe automation.
+    - title: Student Retention Analytics Tool
+      institution: Capstone analytics project
+      year: 2024
+      description:
+        - Analytics and machine learning project focused on student retention.
+        - Includes data processing, modeling, visualization, and actionable insight generation.
+
+- title: Technical Interests
+  type: nested_list
+  contents:
+    - title: Theory
+      items:
+        - Theoretical computer science
+        - Quantum computation and information
+        - Machine learning theory
+    - title: Software
+      items:
+        - Developer tooling
+        - Data pipelines
+        - Practical automation
+
+- title: Other Interests
+  type: list
+  contents:
+    - Exploring, learning, spending time outdoors, and spending time with family and friends.
