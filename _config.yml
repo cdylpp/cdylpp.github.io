@@ -193,6 +193,12 @@ exclude:
   - Gemfile.lock
   - INSTALL.md
   - LICENSE
+  - assets/audio/
+  - assets/bibliography/
+  - assets/html/
+  - assets/jupyter/
+  - assets/plotly/
+  - assets/video/
   - lighthouse_results/
   - package.json
   - package-lock.json
