@@ -30,6 +30,7 @@ concurrency:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -40,12 +41,11 @@ jobs:
           ruby-version: "3.3.5"
           bundler-cache: true
 
-      - name: Install system dependencies
-        run: sudo apt-get update && sudo apt-get install -y imagemagick
-
       - name: Build
+        env:
+          JEKYLL_ENV: production
+          JEKYLL_NO_BUNDLER_REQUIRE: "true"
         run: |
-          export JEKYLL_ENV=production
           bundle exec jekyll build
 
       - name: Deploy
