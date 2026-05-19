@@ -1,1 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?> <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> <url> <loc>https://cdylpp.github.io/projects/adoctl/</loc> <lastmod>2026-05-19T16:32:33+00:00</lastmod> </url> <url> <loc>https://cdylpp.github.io/projects/homehub/</loc> <lastmod>2026-05-19T16:32:33+00:00</lastmod> </url> <url> <loc>https://cdylpp.github.io/projects/personal-website/</loc> <lastmod>2026-05-19T16:32:33+00:00</lastmod> </url> <url> <loc>https://cdylpp.github.io/projects/srt/</loc> <lastmod>2026-05-19T16:32:33+00:00</lastmod> </url> <url> <loc>https://cdylpp.github.io/</loc> </url> <url> <loc>https://cdylpp.github.io/cv/</loc> </url> <url> <loc>https://cdylpp.github.io/projects/</loc> </url> </urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://cdylpp.github.io/projects/adoctl/</loc>
+<lastmod>2026-05-19T16:43:27+00:00</lastmod>
+</url>
+<url>
+<loc>https://cdylpp.github.io/projects/homehub/</loc>
+<lastmod>2026-05-19T16:43:27+00:00</lastmod>
+</url>
+<url>
+<loc>https://cdylpp.github.io/projects/personal-website/</loc>
+<lastmod>2026-05-19T16:43:27+00:00</lastmod>
+</url>
+<url>
+<loc>https://cdylpp.github.io/projects/srt/</loc>
+<lastmod>2026-05-19T16:43:27+00:00</lastmod>
+</url>
+<url>
+<loc>https://cdylpp.github.io/</loc>
+</url>
+<url>
+<loc>https://cdylpp.github.io/cv/</loc>
+</url>
+<url>
+<loc>https://cdylpp.github.io/projects/</loc>
+</url>
+</urlset>
