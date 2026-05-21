@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: history
+title: Resume
 nav: true
 nav_order: 3
 cv_pdf:
