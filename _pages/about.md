@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: M.S. student in Computer Science and Engineering at <a href='https://cse.ucsd.edu'>UC San Diego</a>.
+subtitle: 
 
 profile:
   align: center
