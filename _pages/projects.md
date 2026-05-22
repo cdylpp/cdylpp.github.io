@@ -3,11 +3,50 @@ layout: page
 title: Projects
 permalink: /projects/
 description: Selected projects and tools.
-nav: true
+nav: false
 nav_order: 2
 display_categories: []
 horizontal: false
 ---
+
+## Work History
+
+My current work combines graduate study at UC San Diego with business intelligence work at Unified Business Technologies. Recent projects include developer tooling for Azure DevOps workflows, student-retention analytics, and small web systems for organizing shared information.
+
+## Portfolio
+
+### Research / Mathematical Systems
+
+- Quantum decoding infrastructure
+- QSVT Hamiltonian simulation
+- Sliding-window decoding experiments
+- Randomized algorithms
+- Computational modeling projects
+- Mathematical systems explorations: candidate selection problem.
+
+### Systems / Infrastructure
+
+- Distributed CDN in `Go` using `gRPC`
+- Compiler + REPL + VSCode extension
+- LLVM / Mobile language ambitions
+- Simulation engines
+- Sudoku experimentation framework
+- Scheduling/iCal tooling
+
+### Architectural / Applied Systems
+
+- AI-assisted intake pipeline
+- ADO orcehstration systems
+- operation analytics modernization
+- data collection infrastructure
+
+
+- [adoctl](https://github.com/cdylpp/adoctl): Validation and orchestration tooling for AI-assisted planning workflows targeting Azure DevOps infrastructures. Designed around safe automation, schema validation, and operational reliability for agent-generated work decomposition and task management.
+- [Student Retention Analytics Tool](https://github.com/cdylpp/srt): Analytics and modeling platform exploring institutional retention dynamics through data pipelines, statistical analysis, and reporting infrastructure. Focused on translating large educational datasets into operationally actionable insights.
+- [HomeHub](https://github.com/cdylpp/homehub): Experimental systems design project exploring shared household coordination through unified scheduling, task orchestration, and lightweight workflow management.
+- [Personal website](https://github.com/cdylpp/cdylpp.github.io): this Jekyll and GitHub Pages site, rebuilt from a general academic template into a focused professional portfolio.
+
+### Cards
 
 <!-- pages/projects.md -->
 <div class="projects">
